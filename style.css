@@ -1,0 +1,46 @@
+body {
+    font-family: cursive;
+}
+
+h2 {
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(67, 94, 117);
+    color: aqua;
+}
+
+h3{
+    font-size: 40px;
+    background-color: rgb(67, 94, 117);
+    color: aqua;
+    text-align: center;
+}
+
+a {
+    color: aqua;
+    font-size: 20px;
+    background-color: rgb(67, 94, 117);
+}
+
+p, img {
+    border: 3px solid rgb(19, 163, 207);
+}
+
+p, table {
+    font-size: 20px;
+}
+
+table{
+    background-color: rgb(67, 94, 117);
+    text-align: center;
+    border-collapse: collapse;
+    border:6px solid rgb(19, 163, 207) ;
+}
+
+td{
+    border: 3px solid rgb(19, 163, 207);
+    color: aqua;
+}
+tr {
+   border: 5px solid rgb(19, 163, 207);
+}
